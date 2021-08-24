@@ -19,9 +19,9 @@
     "prepare": "babel --out-dir dist js"
   },
   "peerDependencies": {
-    "react": "^16.11.0",
-    "react-native": "^0.62.2",
-    "react-native-windows": "^0.62.0"
+    "react": "^17.0.1",
+    "react-native": "^0.64.2",
+    "react-native-windows": "^0.64.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
@@ -36,9 +36,9 @@
     "flow-bin": "0.113.0",
     "jest": "^24.9.0",
     "metro-react-native-babel-preset": "^0.56.0",
-    "react": "^16.11.0",
-    "react-native": "^0.62.2",
-    "react-native-windows": "^0.62.0-0",
+    "react": "^17.0.1",
+    "react-native": "^0.64.2",
+    "react-native-windows": "^0.64.1",
     "react-test-renderer": "16.9.0"
   },
   "repository": {
